@@ -33,4 +33,4 @@ app.use('/graphql', graphqlHTTP({
   rootValue: root,
   graphiql: true,
 }));
-app.listen(4000);,
+app.listen(4000);
